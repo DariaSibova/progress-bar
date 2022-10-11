@@ -6,4 +6,10 @@ body{
   background-color: #2a9d8f;
 }
 
-.
+.progress{
+  position: relative;
+  height: 10px;
+  width: 1110%;
+  border: 1px solid #f4a261;
+  border-radius: 15px;
+}
